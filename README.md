@@ -1,7 +1,7 @@
 # IntrusionDetectionFeatureSelection
 Data statistics table for each data set used
 
-### NSL KDD
+### Table 1. NSL KDD
 
 |Main Attack Type|Class|KDDTrain|KDDTest|
 |:----|:----|:----|:----|
@@ -35,7 +35,8 @@ Data statistics table for each data set used
 |**Attacks Total**|Attacks Total|19136|19636|
 |**Total**|Total|59,136|59,636|
 
-### CIC-IDS2017
+### Table 2. CIC-IDS2017
+
 |Class|No. of Features|
 |:----|:----|
 |**Normal** |439,683|
@@ -47,7 +48,7 @@ Data statistics table for each data set used
 |**Attacks** |251,723|
 |**Total**|691,406|
 
-### Aegan Wi-Fi Intrusion Dataset
+### Table 3. Aegan Wi-Fi Intrusion Dataset
 
 |Class|AWID_CLS_TRN|AWID_CLS_TST|
 |:----|:----|:----|
