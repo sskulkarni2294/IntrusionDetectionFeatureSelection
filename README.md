@@ -37,7 +37,7 @@ Data statistics table for each data set used
 
 ### Table 2. CIC-IDS2017
 
-|Class|No. of Features|
+|Class|No. of Observation|
 |:----|:----|
 |**Normal** |439,683|
 |**DoS slowloris** |5796|
